@@ -19,6 +19,7 @@ Web development through Flask&Django
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
 </td>
+  
 </tr>
 </tbody>
 </table>
@@ -34,6 +35,9 @@ Web development through Flask&Django
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
 </td>
+  <td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> 
+
 </td>
 
 </tr>
