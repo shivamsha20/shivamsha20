@@ -2,7 +2,8 @@
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200 hieght=100/>
 
 -----
-```Event organising lead at GDSC(VIIT) and volunteer at  GDSC WOW
+```
+Event organising lead at GDSC(VIIT) and volunteer at  GDSC WOW
 Competitive programmer
 Web development through Flask&Django
 ```
